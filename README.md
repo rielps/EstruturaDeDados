@@ -1,6 +1,6 @@
 # Estrutura de Dados Lineares
 
-Este repositório foi criado como parte das atividades da disciplina de **Estrutura de Dados Lineares**, do curso de **[colocar nome do curso]** na **TEC**.
+Este repositório foi criado como parte das atividades da disciplina de **Estrutura de Dados Lineares**, do curso de **Analise e desenvolvimento de sistemas** do **IFRN**.
 
 ## 📚 Sobre a disciplina
 
